@@ -70,9 +70,3 @@ Projekt został stworzony w ramach kursu programowania mobilnego. Prototyp UI/UX
 - **Imię i nazwisko:** *Roman Vykeryk*
 - **Kierunek / Grupa:** *informatyka 6 sem*
 - **Rok:** 2026
-
----
-
-## 📄 Licencja
-
-Projekt stworzony w celach edukacyjnych.
