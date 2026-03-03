@@ -47,7 +47,4 @@ Projekt został stworzony w ramach kursu programowania mobilnego. Prototyp UI/UX
 | 📊 Postępy | Statystyki, wykresy i rekordy osobiste |
 | 📅 Harmonogram | Tygodniowy planer treningów |
 | ⚙️ Profil / Ustawienia | Profil użytkownika, cele i ustawienia aplikacji |
-
-> Pełny interaktywny prototyp dostępny w Figmie: *(wstaw link do Figmy tutaj)*
-
 ---
