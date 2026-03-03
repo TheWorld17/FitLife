@@ -51,22 +51,3 @@ Projekt został stworzony w ramach kursu programowania mobilnego. Prototyp UI/UX
 > Pełny interaktywny prototyp dostępny w Figmie: *(wstaw link do Figmy tutaj)*
 
 ---
-
-## 🛠️ Technologie
-
-| Warstwa | Technologia |
-|---------|-------------|
-| Platforma | iOS / Android (Cross-platform) |
-| Projekt / Prototyp | Figma |
-| Framework | React Native |
-| Język | JavaScript |
-| Edytor kodu | Visual Studio Code |
-| Architektura | MVVM |
-
----
-
-## 👤 Autor
-
-- **Imię i nazwisko:** *Roman Vykeryk*
-- **Kierunek / Grupa:** *informatyka 6 sem*
-- **Rok:** 2026
